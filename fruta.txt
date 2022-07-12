@@ -1,5 +1,4 @@
-pera2
-fresa2
+pera
+fresa
+melocoton
 melon
-
-
